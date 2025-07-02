@@ -34,17 +34,21 @@ import plotly.express as px
 
 # 國家用電量視覺化
 #st.subheader("🌍 各國地方政府能源消耗（kWh）")
+'''
 fig_bar = px.bar(
     df.groupby('Country')['Amount_kWh'].sum().reset_index().sort_values(by='Amount_kWh', ascending=False),
     x='Country', y='Amount_kWh',
     title='Total Local Government Energy Usage by Country (kWh)',
     labels={'Amount_kWh': 'Energy Consumption (kWh)'}
 )
+'''
+
 #st.plotly_chart(fig_bar, use_container_width=True, key="fig_bar_1")
 
 # 能源類型圓餅圖
 #st.subheader("🔌 能源消耗占比（依類型）")
-type_summary = df.groupby('Type')['Amount_kWh'].sum().reset_index()
+#type_summary = df.groupby('Type')['Amount_kWh'].sum().reset_index()
+'''
 fig_pie = px.pie(
     type_summary,
     names='Type',
@@ -52,6 +56,8 @@ fig_pie = px.pie(
     title='Energy Consumption by Type (kWh)',
     hole=0.3
 )
+'''
+
 #st.plotly_chart(fig_pie, use_container_width=True, key="fig_pie_1")
 
 # C40 vs 非 C40 能源使用比較
@@ -75,15 +81,15 @@ if page == "總覽":
     # 使用 selectbox 選擇分析模式
     all_countries = df['Country'].dropna().unique()
     select_country = st.multiselect("請選擇國家進行分析（可複選）：", sorted(all_countries), default=sorted(all_countries))
-    filtered_country_summary = df[df['Country'].isin(select_country)].groupby('Country')['Amount_kWh'].sum().reset_index()
-    fig_pie_filtered = px.pie(
+    filtered_country_summary = df[df['Country'].isin(select_country)].groupby('Country')['Amount_kWh'].sum().reset_index().sort_values(by='Amount_kWh', ascending=False)
+    fig_bar_filtered = px.bar(
         filtered_country_summary,
-        names='Country',
-        values='Amount_kWh',
-        title='Energy Consumpution by Country (kWh)',
-        hole=0.3
+        x='Country', y='Amount_kWh',
+    title='Total Local Government Energy Usage by Country (kWh)',
+    labels={'Amount_kWh': 'Energy Consumption (kWh)'}
+
     )
-    st.plotly_chart(fig_bar, use_container_width=True, key="fig_bar_2")
+    st.plotly_chart(fig_bar_filtered, use_container_width=True, key="fig_bar_2")
 elif page == "能源類型分析":
     st.subheader("🔌 能源消耗占比（依類型）")
     # 新增能源類型篩選器
@@ -103,7 +109,7 @@ elif page == "能源類型分析":
         hole=0.3
     )
 
-    st.plotly_chart(fig_pie, use_container_width=True, key="fig_pie_2")
+    st.plotly_chart(fig_pie_filtered, use_container_width=True, key="fig_pie_2")
 elif page == "C40 比較":
     st.subheader("🏙️ C40 成員國 vs 非成員國能源使用比較")
     st.plotly_chart(fig_c40, use_container_width=True, key="fig_c40_2")
