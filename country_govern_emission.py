@@ -34,29 +34,14 @@ import plotly.express as px
 
 # 國家用電量視覺化
 #st.subheader("🌍 各國地方政府能源消耗（kWh）")
-'''
-fig_bar = px.bar(
-    df.groupby('Country')['Amount_kWh'].sum().reset_index().sort_values(by='Amount_kWh', ascending=False),
-    x='Country', y='Amount_kWh',
-    title='Total Local Government Energy Usage by Country (kWh)',
-    labels={'Amount_kWh': 'Energy Consumption (kWh)'}
-)
-'''
+
 
 #st.plotly_chart(fig_bar, use_container_width=True, key="fig_bar_1")
 
 # 能源類型圓餅圖
 #st.subheader("🔌 能源消耗占比（依類型）")
 #type_summary = df.groupby('Type')['Amount_kWh'].sum().reset_index()
-'''
-fig_pie = px.pie(
-    type_summary,
-    names='Type',
-    values='Amount_kWh',
-    title='Energy Consumption by Type (kWh)',
-    hole=0.3
-)
-'''
+
 
 #st.plotly_chart(fig_pie, use_container_width=True, key="fig_pie_1")
 
