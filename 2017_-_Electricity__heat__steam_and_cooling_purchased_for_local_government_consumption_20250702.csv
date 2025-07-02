@@ -1,0 +1,409 @@
+Account number,City long name,City short name,Country,Region,C40,Access,Reporting year,Source,Type,Amount,Units
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,Airport(s),Electricity,60468697,kWh
+31177,Salt Lake City,Salt Lake City,USA,North America,,Public,2017,Airport(s),Electricity,54328713,kWh
+31108,City of Houston,Houston,USA,North America,C40,Public,2017,Airport(s),Electricity,109608224,kWh
+63999,"City of Miami Beach, FL","Miami Beach, FL",USA,North America,,Public,2017,Buildings,Electricity,43996054,kWh
+62845,Jinja Municipal Council,Jinja ,Uganda,Africa,,Public,2017,Buildings,Electricity,405,MWh
+62864,"City of Lancaster, PA","Lancaster, PA",USA,North America,,Public,2017,Buildings,Electricity,39607979,kWh
+61790,"City of Emeryville, CA","Emeryville, CA",USA,North America,,Public,2017,Buildings,Electricity,999930,kWh
+31052,City of Cardiff,Cardiff,United Kingdom,Europe,,Public,2017,Buildings,Electricity,42866140,kWh
+8242,City of Helsinki,Helsinki,Finland,Europe,,Public,2017,Buildings,Electricity,439.73,GWh
+8242,City of Helsinki,Helsinki,Finland,Europe,,Public,2017,Buildings,Heat,968.42,GWh
+8242,City of Helsinki,Helsinki,Finland,Europe,,Public,2017,Buildings,Cooling,2.58,GWh
+58569,City of Podgorica,Podgorica,Montenegro,Europe,,Public,2017,Buildings,Electricity,746001,kWh
+36261,Comune di Bolzano,Bolzano,Italy,Europe,,Public,2017,Buildings,Electricity,16896634,kWh
+36261,Comune di Bolzano,Bolzano,Italy,Europe,,Public,2017,Buildings,Heat,3063942,kWh
+36263,Comune di Ravenna,Ravenna,Italy,Europe,,Public,2017,Buildings,Electricity,11410,MWh
+58671,Elsinore Municipality,Elsinore,Denmark,Europe,,Public,2017,Buildings,Heat,37346,MWh
+59165,Gladsaxe Kommune,Gladsaxe,Denmark,Europe,,Public,2017,Buildings,Electricity,15146,MWh
+59165,Gladsaxe Kommune,Gladsaxe,Denmark,Europe,,Public,2017,Buildings,Heat,117025,GJ
+58489,Hoeje-Taastrup Kommune,Hoeje-Taastrup,Denmark,Europe,,Public,2017,Buildings,Electricity,9801,MWh
+58489,Hoeje-Taastrup Kommune,Hoeje-Taastrup,Denmark,Europe,,Public,2017,Buildings,Heat,28996,MWh
+55442,Município de Moita,Moita,Portugal,Europe,,Public,2017,Buildings,Electricity,38580,MWh
+58796,Odder Kommune,Odder,Denmark,Europe,,Public,2017,Buildings,Heat,9000000,kWh
+58796,Odder Kommune,Odder,Denmark,Europe,,Public,2017,Buildings,Electricity,3400000,kWh
+50672,Santarém,Santarém,Portugal,Europe,,Public,2017,Buildings,Electricity,23386,MWh
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo ,Israel,South and West Asia,,Public,2017,Buildings,,76141,MWh
+19233,Torres Vedras Municipality,Torres Vedras ,Portugal,Europe,,Public,2017,Buildings,Electricity,2511000,MWh
+19233,Torres Vedras Municipality,Torres Vedras ,Portugal,Europe,,Public,2017,Buildings,Other: natural gas,47382,MWh
+19233,Torres Vedras Municipality,Torres Vedras ,Portugal,Europe,,Public,2017,Buildings,Other:,46,MWh
+60140,City of Nakuru,Nakuru,Kenya,Africa,,Public,2017,Buildings,Electricity,,kWh
+1499,Ajuntament de Barcelona,Barcelona,Spain,Europe,C40,Public,2017,Buildings,Electricity,179299243.72,kWh
+31149,City of Athens,Athens,Greece,Europe,C40,Public,2017,Buildings,Electricity,21330,MWh
+35858,City of Cape Town,Cape Town,South Africa,Africa,C40,Public,2017,Buildings,Electricity,193015891,kWh
+14088,City of Oslo,Oslo,Norway,Europe,C40,Public,2017,Buildings,Electricity,532,GWh
+14088,City of Oslo,Oslo,Norway,Europe,C40,Public,2017,Buildings,Other: District heating,184,GWh
+31175,City of Paris,Paris,France,Europe,C40,Public,2017,Buildings,Heat,179.7,GWh
+31175,City of Paris,Paris,France,Europe,C40,Public,2017,Buildings,Cooling,1,GWh
+31175,City of Paris,Paris,France,Europe,C40,Public,2017,Buildings,Electricity,219,GWh
+54102,City of Albany,Albany,USA,North America,,Public,2017,Buildings,Electricity,7552746,kWh
+58627,"City of Alton, IL","Alton, IL",USA,North America,,Public,2017,Buildings,Electricity,2671777,kWh
+55799,"City of Arlington, VA","Arlington, VA",USA,North America,,Public,2017,Buildings,Electricity,98744,MWh
+1093,City of Atlanta,Atlanta,USA,North America,,Public,2017,Buildings,Electricity,614897421,kWh
+49787,City of Benicia,Benicia,USA,North America,,Public,2017,Buildings,Electricity,2770786,kWh
+54104,City of Boulder,Boulder,USA,North America,,Public,2017,Buildings,Electricity,9921675,kWh
+35475,City of Calgary,Calgary,Canada,North America,,Public,2017,Buildings,Electricity,157272101.13,kWh
+35475,City of Calgary,Calgary,Canada,North America,,Public,2017,Buildings,Heat,51677,GJ
+55800,City of Cambridge,Cambridge,USA,North America,,Public,2017,Buildings,Electricity,24869854,kWh
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,Buildings,Electricity,51356575,kWh
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,Buildings,Steam,43416034572,Btus
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,Buildings,Cooling,31735748040,Btus
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Buildings,Electricity,87986998,kWh
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Buildings,Heat,379607,Therms
+35860,City of Dallas,Dallas,USA,North America,,Public,2017,Buildings,Electricity,723959026,kWh
+54108,City of Durham,Durham,USA,North America,,Public,2017,Buildings,Electricity,17356849,kWh
+58590,"City of Easton, PA","Easton, PA",USA,North America,,Public,2017,Buildings,Electricity,6718216,kWh
+43912,City of Edmonton,Edmonton,Canada,North America,,Public,2017,Buildings,Electricity,163992769,kWh
+43912,City of Edmonton,Edmonton,Canada,North America,,Public,2017,Buildings,Electricity,14297607,kWh
+54070,City of Eugene,Eugene,USA,North America,,Public,2017,Buildings,Electricity,18106122,kWh
+54070,City of Eugene,Eugene,USA,North America,,Public,2017,Buildings,Steam,0,Short tons
+54113,City of Flagstaff,Flagstaff,USA,North America,,Public,2017,Buildings,Electricity,38173762.6,kWh
+50555,City of Hamilton,Hamilton,Canada,North America,,Public,2017,Buildings,Electricity,79243012,kWh
+54048,City of Knoxville,Knoxville,USA,North America,,Public,2017,Buildings,Electricity,43707647,kWh
+57616,"City of Lake Forest, IL","Lake Forest, IL",USA,North America,,Public,2017,Buildings,Electricity,544430,Therms
+10495,City of Las Vegas,Las Vegas,USA,North America,,Public,2017,Buildings,Electricity,37604386,kWh
+10495,City of Las Vegas,Las Vegas,USA,North America,,Public,2017,Buildings,Heat,791206,Therms
+50558,"City of London, ON","London, ON",Canada,North America,,Public,2017,Buildings,Electricity,106370000,kWh
+50558,"City of London, ON","London, ON",Canada,North America,,Public,2017,Buildings,Steam,2846000,kWh
+50558,"City of London, ON","London, ON",Canada,North America,,Public,2017,Buildings,Cooling,1392000,kWh
+58513,City of Medford,Medford,USA,North America,,Public,2017,Buildings,Electricity,9941003,kWh
+43908,City of Milwaukee,Milwaukee,USA,North America,,Public,2017,Buildings,Electricity,17468867.47,kWh
+58530,"City of Northampton, MA","Northampton, MA",USA,North America,,Public,2017,Buildings,Electricity,10500000,kWh
+50560,City of Oakland,Oakland,USA,North America,,Public,2017,Buildings,Electricity,24930952,kWh
+50560,City of Oakland,Oakland,USA,North America,,Public,2017,Buildings,Other: Natural Gas,724097,Therms
+14344,"City of Park City, UT","Park City, UT",USA,North America,,Public,2017,Buildings,Electricity,4291358,kWh
+35878,City of Sacramento,Sacramento,USA,North America,,Public,2017,Buildings,Electricity,37734,MWh
+43905,City of San Antonio,San Antonio,USA,North America,,Public,2017,Buildings,Electricity,156643322,kWh
+43905,City of San Antonio,San Antonio,USA,North America,,Public,2017,Buildings,Steam,15249768000,Btus
+54110,City of Santa Monica,Santa Monica,USA,North America,,Public,2017,Buildings,Electricity,18652126,kWh
+54085,City of Savannah,Savannah,USA,North America,,Public,2017,Buildings,Electricity,23873559.4,kWh
+58531,"City of Somerville, MA","Somerville, MA",USA,North America,,Public,2017,Buildings,Electricity,12681822,kWh
+35393,City of St Louis,St Louis,USA,North America,,Public,2017,Buildings,Electricity,60000860.38,kWh
+35393,City of St Louis,St Louis,USA,North America,,Public,2017,Buildings,Steam,93059810000,Btus
+50578,City of Windsor,Windsor,Canada,North America,,Public,2017,Buildings,Electricity,163517,GJ
+50579,City of Winnipeg,Winnipeg,Canada,North America,,Public,2017,Buildings,Electricity,391693,GJ
+52894,City of Winston-Salem,Winston-Salem,USA,North America,,Public,2017,Buildings,Electricity,113073315,kWh
+55616,Los Altos Hills,Los Altos Hills,USA,North America,,Public,2017,Buildings,Electricity,67279,kWh
+31177,Salt Lake City,Salt Lake City,USA,North America,,Public,2017,Buildings,Electricity,42905174,kWh
+1184,City of Austin,Austin,USA,North America,C40,Public,2017,Buildings,Electricity,306584319,kWh
+1184,City of Austin,Austin,USA,North America,C40,Public,2017,Buildings,Cooling,4578201,kWh
+35268,City of Boston,Boston,USA,North America,C40,Public,2017,Buildings,Electricity,160899278,kWh
+35268,City of Boston,Boston,USA,North America,C40,Public,2017,Buildings,Steam,469664,Therms
+13067,City of New Orleans,New Orleans,USA,North America,C40,Public,2017,Buildings,Electricity,113082771,kWh
+14874,"City of Portland, OR","Portland, OR",USA,North America,C40,Public,2017,Buildings,Electricity,102649898,kWh
+20113,City of Vancouver,Vancouver,Canada,North America,C40,Public,2017,Buildings,Electricity,151388214,kWh
+20113,City of Vancouver,Vancouver,Canada,North America,C40,Public,2017,Buildings,Steam,5034,Short tons
+3417,New York City,New York City,USA,North America,C40,Public,2017,Buildings,Electricity,3295468753,kWh
+3417,New York City,New York City,USA,North America,C40,Public,2017,Buildings,Steam,985296,Metric tonnes
+59545,"City of Charlottesville, VA","Charlottesville, VA",USA,North America,,Public,2017,Buildings,Electricity,19951458,kWh
+59545,"City of Charlottesville, VA","Charlottesville, VA",USA,North America,,Public,2017,Buildings,Other: Natural Gas,27965617999.99,Btus
+59552,"City of Davis, CA","Davis, CA",USA,North America,,Public,2017,Buildings,Electricity,13213000,kWh
+59552,"City of Davis, CA","Davis, CA",USA,North America,,Public,2017,Buildings,Heat,128000,Therms
+59669,City of North Vancouver,North Vancouver,Canada,North America,,Public,2017,Buildings,Other: District energy,1327791,kWh
+59669,City of North Vancouver,North Vancouver,Canada,North America,,Public,2017,Buildings,Electricity,9315542,kWh
+59588,"Town of Chapel Hill, NC","Chapel Hill, NC",USA,North America,,Public,2017,Buildings,Electricity,10527799,kWh
+59535,"Town of Vail, CO","Vail, CO",USA,North America,,Public,2017,Buildings,Electricity,4658843,kWh
+31186,Changwon City,Changwon ,South Korea,East Asia,C40,Public,2017,Buildings,Electricity,24641594,kWh
+31114,City of Sydney,Sydney,Australia,South Asia and Oceania,C40,Public,2017,Buildings,Electricity,17511729,kWh
+43932,Auckland Council,Auckland ,New Zealand,South Asia and Oceania,C40,Public,2017,Buildings,Electricity,59864663,kWh
+43928,Canberra,Canberra,Australia,South Asia and Oceania,,Public,2017,Buildings,Electricity,113782089,kWh
+54354,City Government of Makati,Makati,Philippines,South Asia and Oceania,,Public,2017,Buildings,Electricity,15872107,kWh
+54364,City of Kuala Lumpur,Kuala Lumpur,Malaysia,South Asia and Oceania,C40,Public,2017,Buildings,Electricity,,kWh
+53254,Hobart City Council,Hobart,Australia,South Asia and Oceania,,Public,2017,Buildings,Electricity,33432,GJ
+31112,Kaohsiung City Government,Kaohsiung,Taiwan,East Asia,,Public,2017,Buildings,Electricity,212966.85,MWh
+57347,Pingtung County Government,Pingtung ,Taiwan,East Asia,,Public,2017,Buildings,Electricity,34871440,kWh
+54395,Taoyuan City Government,Taoyuan,Taiwan,East Asia,,Public,2017,Buildings,Electricity,112624657.5,kWh
+35872,Municipality of Recife,Recife,Brazil,Latin America,,Public,2017,Buildings,Electricity,445986000,kWh
+50381,Municipio de Torreón,Torreón,Mexico,Latin America,,Public,2017,Buildings,Electricity,13017415,kWh
+54656,Prefeitura de Vinhedo,Vinhedo,Brazil,Latin America,,Public,2017,Buildings,Other:,,
+60252,Prefeitura de Birigui,Birigui,Brazil,Latin America,,Public,2017,Buildings,Electricity,40000,kWh
+42178,Distrito Metropolitano de Quito,Quito,Ecuador,Latin America,C40,Public,2017,Buildings,Electricity,5945,MWh
+63616,Abasan Al-Kabira Municipality,Abasan Al-Kabira,State of Palestine,South and West Asia,,Public,2017,Buildings,Electricity,44328,MWh
+60603,"City of Prince George, BC","Prince George, BC",Canada,North America,,Public,2017,Buildings,Heat,68902,GJ
+60603,"City of Prince George, BC","Prince George, BC",Canada,North America,,Public,2017,Buildings,Electricity,34611603,kWh
+60656,"City of Piedmont, CA","Piedmont, CA",USA,North America,,Public,2017,Buildings,Electricity,850467,kWh
+58395,Bærum Kommune,Bærum,Norway,Europe,,Public,2017,Buildings,Electricity,64349256,kWh
+58395,Bærum Kommune,Bærum,Norway,Europe,,Public,2017,Buildings,Heat,12,GWh
+58395,Bærum Kommune,Bærum,Norway,Europe,,Public,2017,Buildings,Cooling,1.3,GWh
+59163,City of Tirana,Tirana,Albania,Europe,,Public,2017,Buildings,Electricity,5925460,kWh
+46473,City of Zaragoza,Zaragoza,Spain,Europe,,Public,2017,Buildings,Electricity,1945846723,kWh
+36494,Comune di Padova,Padova,Italy,Europe,,Public,2017,Buildings,Electricity,895434,MWh
+55334,Município de Braga,Braga,Portugal,Europe,,Public,2017,Buildings,Electricity,28556,MWh
+31173,Comune di Milano,Milano,Italy,Europe,C40,Public,2017,Buildings,Electricity,106383,MWh
+36254,Comune di Venezia,Venezia,Italy,Europe,C40,Public,2017,Buildings,Electricity,24763,MWh
+58668,"City of New Bedford, MA","New Bedford, MA",USA,North America,,Public,2017,Buildings,Electricity,40519173,kWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Buildings,Electricity,11374610,kWh
+35877,City of Pittsburgh,Pittsburgh,USA,North America,,Public,2017,Buildings,Electricity,99198503,kWh
+35877,City of Pittsburgh,Pittsburgh,USA,North America,,Public,2017,Buildings,Steam,10708,Therms
+49335,Metropolitan Government of Nashville and Davidson County,Nashville and Davidson ,USA,North America,,Public,2017,Buildings,Electricity,477583901,kWh
+3203,City of Chicago,Chicago,USA,North America,C40,Public,2017,Buildings,Electricity,2447849,MWh
+3203,City of Chicago,Chicago,USA,North America,C40,Public,2017,Buildings,Heat,85053025,Therms
+31108,City of Houston,Houston,USA,North America,C40,Public,2017,Buildings,Electricity,152319934,kWh
+10894,City of Los Angeles,Los Angeles,USA,North America,C40,Public,2017,Buildings,Electricity,238656508,kWh
+31182,City of San Francisco,San Francisco,USA,North America,C40,Public,2017,Buildings,Electricity,956673,MWh
+31182,City of San Francisco,San Francisco,USA,North America,C40,Public,2017,Buildings,Heat,18079665,Therms
+31182,City of San Francisco,San Francisco,USA,North America,C40,Public,2017,Buildings,Steam,75104152200,Btus
+16581,City of Seattle,Seattle,USA,North America,C40,Public,2017,Buildings,Electricity,161120,MWh
+16581,City of Seattle,Seattle,USA,North America,C40,Public,2017,Buildings,Steam,296,MWh
+54348,The Local Government of Quezon City,Quezon ,Philippines,South Asia and Oceania,C40,Public,2017,Buildings,Electricity,15484471,kWh
+64014,City of Cupertino,Cupertino,USA,North America,,Public,2017,Buildings,Electricity,2809853,kWh
+59537,"City of Denton, TX","Denton, TX",USA,North America,,Public,2017,Buildings,Electricity,14705873,kWh
+53959,"City of Fayetteville, AR","Fayetteville, AR",USA,North America,,Public,2017,Buildings,,8671,MWh
+58871,"City of Salem, MA","Salem, MA",USA,North America,,Public,2017,Buildings,Electricity,10202280,kWh
+59631,"City of San Leandro, CA","San Leandro, CA",USA,North America,,Public,2017,Buildings,Electricity,4216972,kWh
+59633,"City of Santa Cruz, CA","Santa Cruz, CA",USA,North America,,Public,2017,Buildings,Electricity,12418838,kWh
+55324,Município de Guimarães,Guimarães,Portugal,Europe,,Public,2017,Buildings,Electricity,24270,MWh
+60273,Prefeitura de Extrema,Extrema,Brazil,Latin America,,Public,2017,Buildings,Electricity,3806.5,MWh
+60126,Tartu City Council,Tartu,Estonia,Europe,,Public,2017,Buildings,Electricity,9406,MWh
+60126,Tartu City Council,Tartu,Estonia,Europe,,Public,2017,Buildings,Heat,39021,MWh
+60126,Tartu City Council,Tartu,Estonia,Europe,,Public,2017,Buses,Other:,14834,MWh
+1499,Ajuntament de Barcelona,Barcelona,Spain,Europe,C40,Public,2017,Electricity generation,Electricity,2652500,kWh
+31167,City of Lagos,Lagos,Nigeria,Africa,C40,Public,2017,Electricity generation,Electricity,6088631408,kWh
+58595,Municipalidad de Belén,Belén,Costa Rica,Latin America,,Public,2017,Electricity generation,Electricity,189920,kWh
+60577,Frederikshavn Kommune,Frederikshavn,Denmark,Europe,,Public,2017,Electricity generation,Electricity,84,GWh
+60588,City of Alba-Iulia,Alba-Iulia,Romania,Europe,,Public,2017,Electricity generation,Electricity,1869,MWh
+49360,Pretoria - Tshwane,Pretoria - Tshwane,South Africa,Africa,C40,Public,2017,Electricity generation,Electricity,5117740477,kWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Electricity generation,Electricity,419657,kWh
+31166,Jakarta City Government,Jakarta ,Indonesia,South Asia and Oceania,C40,Public,2017,Electricity generation,Other: HSD/IDO,47327000,L
+31166,Jakarta City Government,Jakarta ,Indonesia,South Asia and Oceania,C40,Public,2017,Electricity generation,Other: Natural Gas (in MMBTU),99877699,Metric tonnes
+31166,Jakarta City Government,Jakarta ,Indonesia,South Asia and Oceania,C40,Public,2017,Electricity generation,Other: MFO,8991000,L
+60392,Municipalidad de San Isidro (Lima),San Isidro (Lima),Peru,Latin America,,Public,2017,Electricity generation,Electricity,2322,MWh
+60229,Municipality of Arendal,Arendal,Norway,Europe,,Public,2017,Electricity generation,Electricity,51631800,MWh
+73240,Tuzla Municipality,Tuzla,Turkey,Europe,,Public,2017,Electricity generation,Electricity,2515100,kWh
+59165,Gladsaxe Kommune,Gladsaxe,Denmark,Europe,,Public,2017,Electricity transmission and distribution,Heat,33037,GJ
+52897,City of Aspen and Pitkin County,Aspen and Pitkin County,USA,North America,,Public,2017,Electricity transmission and distribution,Electricity,6986577,kWh
+58867,City of Wisconsin Rapids,Wisconsin Rapids,USA,North America,,Public,2017,Electricity transmission and distribution,Electricity,1962446,kWh
+60393,Municipalidad de Santiago,Santiago,Chile,Latin America,,Public,2017,Electricity transmission and distribution,Electricity,49350,MWh
+36489,Comune di Olbia,Olbia,Italy,Europe,,Public,2017,Electricity transmission and distribution,Electricity,4086,MWh
+46473,City of Zaragoza,Zaragoza,Spain,Europe,,Public,2017,Electricity transmission and distribution,Electricity,17476249,kWh
+59537,"City of Denton, TX","Denton, TX",USA,North America,,Public,2017,Electricity transmission and distribution,Electricity,71411,MWh
+10894,City of Los Angeles,Los Angeles,USA,North America,C40,Public,2017,Landfills,Electricity,480732,kWh
+58569,City of Podgorica,Podgorica,Montenegro,Europe,,Public,2017,Local trains,Electricity,22508,kWh
+31185,City of Warsaw,Warsaw,Poland,Europe,C40,Public,2017,Local trains,Electricity,14782.18,MWh
+35475,City of Calgary,Calgary,Canada,North America,,Public,2017,Local trains,Electricity,79366860.43,kWh
+13067,City of New Orleans,New Orleans,USA,North America,C40,Public,2017,Local trains,,3916000,kWh
+46473,City of Zaragoza,Zaragoza,Spain,Europe,,Public,2017,Local trains,Electricity,62359222,kWh
+31173,Comune di Milano,Milano,Italy,Europe,C40,Public,2017,Local trains,Electricity,68252,MWh
+58489,Hoeje-Taastrup Kommune,Hoeje-Taastrup,Denmark,Europe,,Public,2017,Municipal vehicle fleet,Electricity,20,MWh
+1499,Ajuntament de Barcelona,Barcelona,Spain,Europe,C40,Public,2017,Municipal vehicle fleet,Electricity,49794.72,kWh
+14088,City of Oslo,Oslo,Norway,Europe,C40,Public,2017,Municipal vehicle fleet,Electricity,880855,kWh
+35878,City of Sacramento,Sacramento,USA,North America,,Public,2017,Municipal vehicle fleet,Electricity,6734,kWh
+60126,Tartu City Council,Tartu,Estonia,Europe,,Public,2017,Municipal vehicle fleet,Other:,15,MWh
+50680,Cascais,Cascais,Portugal,Europe,,Public,2017,Other:,Electricity,565382,kWh
+36036,City of Ibadan,Ibadan,Nigeria,Africa,,Public,2017,Other:,Other:,0,Metric tonnes
+58590,"City of Easton, PA","Easton, PA",USA,North America,,Public,2017,Other:,Electricity,425702,kWh
+14344,"City of Park City, UT","Park City, UT",USA,North America,,Public,2017,Other:,Electricity,120751,kWh
+31117,City of Toronto,Toronto,Canada,North America,C40,Public,2017,Other:,Electricity,1617024767,kWh
+31117,City of Toronto,Toronto,Canada,North America,C40,Public,2017,Other:,Other: Natural Gas,132903638,m3 (cubic meters)
+35883,City of San José,San José,USA,North America,,Public,2017,Other: 2016,Electricity,149898755,kWh
+35883,City of San José,San José,USA,North America,,Public,2017,Other: 2016,Other: Natural Gas,5728169,Therms
+46473,City of Zaragoza,Zaragoza,Spain,Europe,,Public,2017,Other: Agricultura y silvicultura,Electricity,7459261,kWh
+58531,"City of Somerville, MA","Somerville, MA",USA,North America,,Public,2017,Other: All Other Facilities,Electricity,419246,kWh
+35863,City of Durban,Durban,South Africa,Africa,C40,Public,2017,Other: Buildings,Electricity,398003923,kWh
+31150,Bangkok Metropolitan Administration,Bangkok ,Thailand,South Asia and Oceania,C40,Public,2017,Other: Commercial,Electricity,7875059166,kWh
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo ,Israel,South and West Asia,,Public,2017,Other: Commercial and Public,Electricity,2555200,MWh
+60416,Municipalidad de San Isidro (Argentina),San Isidro,Argentina,Latin America,,Public,2017,Other: Consumo de energía eléctrica,Electricity,865200936,kWh
+31172,Mexico City,Mexico City,Mexico,Latin America,C40,Public,2017,Other: Consumption by On road transport,Electricity,40116,MWh
+31172,Mexico City,Mexico City,Mexico,Latin America,C40,Public,2017,Other: Consumption by subway,Electricity,835840.64,MWh
+31172,Mexico City,Mexico City,Mexico,Latin America,C40,Public,2017,Other: Consumption in Governments Facilities,Electricity,1173294.42,MWh
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo ,Israel,South and West Asia,,Public,2017,Other: Domestic Consumption,Electricity,1207300,MWh
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo ,Israel,South and West Asia,,Public,2017,Other: Domestic Consumption,Electricity,1207300,MWh
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,"Other: Facilities such as parks, Radio towers, AMRs, etc.",Electricity,5060444,kWh
+60577,Frederikshavn Kommune,Frederikshavn,Denmark,Europe,,Public,2017,Other: Import of electricity,Electricity,219,GWh
+60577,Frederikshavn Kommune,Frederikshavn,Denmark,Europe,,Public,2017,Other: Industri,Other: Electricity and heat,507,GWh
+46473,City of Zaragoza,Zaragoza,Spain,Europe,,Public,2017,Other: Industria,Electricity,1386955277,kWh
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo ,Israel,South and West Asia,,Public,2017,Other: Industrial,Electricity,137000,MWh
+31150,Bangkok Metropolitan Administration,Bangkok ,Thailand,South Asia and Oceania,C40,Public,2017,Other: Industrial,Electricity,15912792685,kWh
+58513,City of Medford,Medford,USA,North America,,Public,2017,Other: open space & outdoor recreation  lighting,Electricity,160632,kWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Other: other processes and fugitive emissions,Electricity,1159,kWh
+31150,Bangkok Metropolitan Administration,Bangkok ,Thailand,South Asia and Oceania,C40,Public,2017,Other: Others,Electricity,274764518,kWh
+36254,Comune di Venezia,Venezia,Italy,Europe,C40,Public,2017,"Other: panels, clocks, other facilities",Electricity,214,MWh
+55799,"City of Arlington, VA","Arlington, VA",USA,North America,,Public,2017,Other: Park & Field Lighting,Electricity,2693,MWh
+31114,City of Sydney,Sydney,Australia,South Asia and Oceania,C40,Public,2017,Other: Parks,Electricity,1716022,kWh
+14088,City of Oslo,Oslo,Norway,Europe,C40,Public,2017,Other: Process related energy use,Electricity,166,GWh
+58513,City of Medford,Medford,USA,North America,,Public,2017,Other: pumping station,Electricity,30794,kWh
+31150,Bangkok Metropolitan Administration,Bangkok ,Thailand,South Asia and Oceania,C40,Public,2017,Other: Residential,Electricity,8106149840,kWh
+31173,Comune di Milano,Milano,Italy,Europe,C40,Public,2017,"Other: Subway, trams and trolley buses",Electricity,281000,MWh
+31113,City of Yokohama,Yokohama,Japan,East Asia,C40,Public,2017,Other: Total,Electricity,836957053,kWh
+49334,"City of Richmond, VA","Richmond, VA",USA,North America,,Public,2017,Other: Total City consumption,Electricity,190593221,kWh
+36494,Comune di Padova,Padova,Italy,Europe,,Public,2017,Other: Total Transport,Electricity,902780,MWh
+31185,City of Warsaw,Warsaw,Poland,Europe,C40,Public,2017,Other: Trams,Electricity,53713.7,MWh
+36254,Comune di Venezia,Venezia,Italy,Europe,C40,Public,2017,Other: Tramway+People Mover,Electricity,5013,MWh
+31150,Bangkok Metropolitan Administration,Bangkok ,Thailand,South Asia and Oceania,C40,Public,2017,Other: Transportation,Electricity,87968138,kWh
+60577,Frederikshavn Kommune,Frederikshavn,Denmark,Europe,,Public,2017,Other: Transportation,Other: Transportation total,657,GWh
+31109,City of Melbourne,Melbourne,Australia,South Asia and Oceania,C40,Public,2017,Other: Utility Bills,Electricity,11248366.87,kWh
+50579,City of Winnipeg,Winnipeg,Canada,North America,,Public,2017,Other: Water and Wastewater,Electricity,398047,GJ
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,Other: Water treatment,Electricity,190106004,kWh
+55800,City of Cambridge,Cambridge,USA,North America,,Public,2017,Roads / highways,Electricity,6883994,kWh
+46473,City of Zaragoza,Zaragoza,Spain,Europe,,Public,2017,Roads / highways,Electricity,10467348,kWh
+63999,"City of Miami Beach, FL","Miami Beach, FL",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,8438928,kWh
+61790,"City of Emeryville, CA","Emeryville, CA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,1180786,kWh
+31052,City of Cardiff,Cardiff,United Kingdom,Europe,,Public,2017,Street lighting and traffic signals,Electricity,22172759,kWh
+8242,City of Helsinki,Helsinki,Finland,Europe,,Public,2017,Street lighting and traffic signals,Electricity,51.09,GWh
+58569,City of Podgorica,Podgorica,Montenegro,Europe,,Public,2017,Street lighting and traffic signals,Electricity,14297,kWh
+36263,Comune di Ravenna,Ravenna,Italy,Europe,,Public,2017,Street lighting and traffic signals,Electricity,18198,MWh
+59165,Gladsaxe Kommune,Gladsaxe,Denmark,Europe,,Public,2017,Street lighting and traffic signals,Electricity,2366,MWh
+58489,Hoeje-Taastrup Kommune,Hoeje-Taastrup,Denmark,Europe,,Public,2017,Street lighting and traffic signals,Electricity,2500,MWh
+50672,Santarém,Santarém,Portugal,Europe,,Public,2017,Street lighting and traffic signals,Electricity,9921,MWh
+19233,Torres Vedras Municipality,Torres Vedras ,Portugal,Europe,,Public,2017,Street lighting and traffic signals,Electricity,13006,MWh
+31149,City of Athens,Athens,Greece,Europe,C40,Public,2017,Street lighting and traffic signals,Electricity,47865,MWh
+35858,City of Cape Town,Cape Town,South Africa,Africa,C40,Public,2017,Street lighting and traffic signals,Electricity,97517436,kWh
+14088,City of Oslo,Oslo,Norway,Europe,C40,Public,2017,Street lighting and traffic signals,Electricity,30,GWh
+31175,City of Paris,Paris,France,Europe,C40,Public,2017,Street lighting and traffic signals,Electricity,122.5,GWh
+31185,City of Warsaw,Warsaw,Poland,Europe,C40,Public,2017,Street lighting and traffic signals,Electricity,26005,MWh
+54102,City of Albany,Albany,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,11335097,kWh
+55799,"City of Arlington, VA","Arlington, VA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,11550,MWh
+54104,City of Boulder,Boulder,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,4207987,kWh
+35475,City of Calgary,Calgary,Canada,North America,,Public,2017,Street lighting and traffic signals,Electricity,82298121.26,kWh
+55800,City of Cambridge,Cambridge,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,2179644,kWh
+35859,City of Cleveland,Cleveland,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,80886262,kWh
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,42520845.92,kWh
+54108,City of Durham,Durham,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,15890809,kWh
+58590,"City of Easton, PA","Easton, PA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,2146431,kWh
+43912,City of Edmonton,Edmonton,Canada,North America,,Public,2017,Street lighting and traffic signals,Electricity,81820581,kWh
+54070,City of Eugene,Eugene,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,7713489,kWh
+50555,City of Hamilton,Hamilton,Canada,North America,,Public,2017,Street lighting and traffic signals,Electricity,33808721,kWh
+54048,City of Knoxville,Knoxville,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,28056544,kWh
+57616,"City of Lake Forest, IL","Lake Forest, IL",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,112010,Therms
+10495,City of Las Vegas,Las Vegas,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,34600249,kWh
+58513,City of Medford,Medford,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,2267476,kWh
+50560,City of Oakland,Oakland,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,18843521,kWh
+35878,City of Sacramento,Sacramento,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,19163,MWh
+43905,City of San Antonio,San Antonio,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,65454238,kWh
+54110,City of Santa Monica,Santa Monica,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,5881953,kWh
+54085,City of Savannah,Savannah,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,3310478,kWh
+58531,"City of Somerville, MA","Somerville, MA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,3858514,kWh
+35393,City of St Louis,St Louis,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,48617682,kWh
+50578,City of Windsor,Windsor,Canada,North America,,Public,2017,Street lighting and traffic signals,Electricity,66781,GJ
+50579,City of Winnipeg,Winnipeg,Canada,North America,,Public,2017,Street lighting and traffic signals,Electricity,204187,GJ
+13067,City of New Orleans,New Orleans,USA,North America,C40,Public,2017,Street lighting and traffic signals,Electricity,44216258,kWh
+14874,"City of Portland, OR","Portland, OR",USA,North America,C40,Public,2017,Street lighting and traffic signals,Electricity,38194303,kWh
+3417,New York City,New York City,USA,North America,C40,Public,2017,Street lighting and traffic signals,Electricity,201195422,kWh
+31114,City of Sydney,Sydney,Australia,South Asia and Oceania,C40,Public,2017,Street lighting and traffic signals,Electricity,11856598,kWh
+43928,Canberra,Canberra,Australia,South Asia and Oceania,,Public,2017,Street lighting and traffic signals,Electricity,41483383,kWh
+54354,City Government of Makati,Makati,Philippines,South Asia and Oceania,,Public,2017,Street lighting and traffic signals,Electricity,2354894,kWh
+53254,Hobart City Council,Hobart,Australia,South Asia and Oceania,,Public,2017,Street lighting and traffic signals,Electricity,10330,GJ
+31112,Kaohsiung City Government,Kaohsiung,Taiwan,East Asia,,Public,2017,Street lighting and traffic signals,Electricity,346570.5,MWh
+54395,Taoyuan City Government,Taoyuan,Taiwan,East Asia,,Public,2017,Street lighting and traffic signals,Electricity,83143991.32,kWh
+35872,Municipality of Recife,Recife,Brazil,Latin America,,Public,2017,Street lighting and traffic signals,Electricity,67864000,kWh
+50381,Municipio de Torreón,Torreón,Mexico,Latin America,,Public,2017,Street lighting and traffic signals,Electricity,29155006,kWh
+36489,Comune di Olbia,Olbia,Italy,Europe,,Public,2017,Street lighting and traffic signals,Electricity,5451,MWh
+63616,Abasan Al-Kabira Municipality,Abasan Al-Kabira,State of Palestine,South and West Asia,,Public,2017,Street lighting and traffic signals,Electricity,534.9,MWh
+59163,City of Tirana,Tirana,Albania,Europe,,Public,2017,Street lighting and traffic signals,Electricity,6895022,kWh
+55334,Município de Braga,Braga,Portugal,Europe,,Public,2017,Street lighting and traffic signals,Electricity,17115,MWh
+31173,Comune di Milano,Milano,Italy,Europe,C40,Public,2017,Street lighting and traffic signals,Electricity,111868,MWh
+36254,Comune di Venezia,Venezia,Italy,Europe,C40,Public,2017,Street lighting and traffic signals,Electricity,16857,MWh
+43914,City of Charlotte,Charlotte,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,4356948,kWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,596737,kWh
+35877,City of Pittsburgh,Pittsburgh,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,27007319,kWh
+49335,Metropolitan Government of Nashville and Davidson County,Nashville and Davidson ,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,59277246,kWh
+31108,City of Houston,Houston,USA,North America,C40,Public,2017,Street lighting and traffic signals,Electricity,72146591,kWh
+54348,The Local Government of Quezon City,Quezon ,Philippines,South Asia and Oceania,C40,Public,2017,Street lighting and traffic signals,Electricity,27514352,kWh
+64014,City of Cupertino,Cupertino,USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,2022966,kWh
+59537,"City of Denton, TX","Denton, TX",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,4290590.94,kWh
+58871,"City of Salem, MA","Salem, MA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,7300000,Btus
+59631,"City of San Leandro, CA","San Leandro, CA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,3444837,kWh
+59633,"City of Santa Cruz, CA","Santa Cruz, CA",USA,North America,,Public,2017,Street lighting and traffic signals,Electricity,1551495,kWh
+60392,Municipalidad de San Isidro (Lima),San Isidro (Lima),Peru,Latin America,,Public,2017,Street lighting and traffic signals,Electricity,637.1,MWh
+55324,Município de Guimarães,Guimarães,Portugal,Europe,,Public,2017,Street lighting and traffic signals,Electricity,12019,MWh
+60273,Prefeitura de Extrema,Extrema,Brazil,Latin America,,Public,2017,Street lighting and traffic signals,Electricity,115.79,MWh
+60126,Tartu City Council,Tartu,Estonia,Europe,,Public,2017,Street lighting and traffic signals,Electricity,7456,MWh
+8242,City of Helsinki,Helsinki,Finland,Europe,,Public,2017,Subway / underground,Electricity,76.5,GWh
+31185,City of Warsaw,Warsaw,Poland,Europe,C40,Public,2017,Subway / underground,Electricity,21749.7,MWh
+50578,City of Windsor,Windsor,Canada,North America,,Public,2017,Thermal energy,Heat,91595,GJ
+54498,Ayuntamiento de Murcia,Murcia,Spain,Europe,,Public,2017,Total,Electricity,67735878,kWh
+50679,Barreiro,Barreiro,Portugal,Europe,,Public,2017,Total,Electricity,10150,MWh
+54521,City of Bournemouth,Bournemouth,United Kingdom,Europe,,Public,2017,Total,Electricity,22700,MWh
+58671,Elsinore Municipality,Elsinore,Denmark,Europe,,Public,2017,Total,Electricity,11888,MWh
+58488,Sonderborg Kommune,Sonderborg,Denmark,Europe,,Public,2017,Total,Electricity,13505,MWh
+58488,Sonderborg Kommune,Sonderborg,Denmark,Europe,,Public,2017,Total,Heat,36830,MWh
+54114,City of Asheville,Asheville,USA,North America,,Public,2017,Total,Electricity,21195010,kWh
+35857,City of Cincinnati,Cincinnati,USA,North America,,Public,2017,Total,Electricity,290348273,kWh
+35874,City of Phoenix,Phoenix,USA,North America,,Public,2017,Total,Electricity,641239109,kWh
+58511,"City of Richmond, CA","Richmond, CA",USA,North America,,Public,2017,Total,Other: CO2e,2959,Metric tonnes
+50568,City of Saskatoon,Saskatoon,Canada,North America,,Public,2017,Total,Electricity,111585271,kWh
+50568,City of Saskatoon,Saskatoon,Canada,North America,,Public,2017,Total,Heat,11610439,m3 (cubic meters)
+35894,Ville de Montreal,Montreal,Canada,North America,C40,Public,2017,Total,Electricity,1049081520,kWh
+35894,Ville de Montreal,Montreal,Canada,North America,C40,Public,2017,Total,Heat,3647000000,Btus
+35894,Ville de Montreal,Montreal,Canada,North America,C40,Public,2017,Total,Steam,18143,Metric tonnes
+35894,Ville de Montreal,Montreal,Canada,North America,C40,Public,2017,Total,Cooling,963994,Metric tonnes
+31181,City of Philadelphia,Philadelphia,USA,North America,C40,Public,2017,Total,Electricity,2370788000,Btus
+31181,City of Philadelphia,Philadelphia,USA,North America,C40,Public,2017,Total,Steam,119858,GJ
+32480,City of Adelaide,Adelaide,Australia,South Asia and Oceania,,Public,2017,Total,Electricity,21138611,kWh
+54386,Tainan City Government,Tainan ,Taiwan,East Asia,,Public,2017,Total,Other: Total,75602.96,Metric tonnes
+43937,Wellington City Council,Wellington,New Zealand,South Asia and Oceania,,Public,2017,Total,Electricity,34549921.5,kWh
+60577,Frederikshavn Kommune,Frederikshavn,Denmark,Europe,,Public,2017,Total,Heat,1126,GWh
+60602,"Town of Ajax, ON","Ajax, ON",Canada,North America,,Public,2017,Total,Electricity,10489278,GJ
+31187,Seoul Metropolitan Government,Seoul ,South Korea,East Asia,C40,Public,2017,Total,Electricity,45018863,MWh
+36045,Santiago de Guayaquil,Santiago de Guayaquil,Ecuador,Latin America,,Public,2017,Total,Electricity,9551,Metric tonnes
+60680,Ville de Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,Canada,North America,,Public,2017,Total,Electricity,3229711,kWh
+2430,City of Burlington,Burlington,USA,North America,,Public,2017,Unknown source,Electricity,20539651,kWh
+2430,City of Burlington,Burlington,USA,North America,,Public,2017,Unknown source,Electricity,4568788,kWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Waste collection,Electricity,160439,kWh
+59537,"City of Denton, TX","Denton, TX",USA,North America,,Public,2017,Waste collection,Electricity,622828,kWh
+35858,City of Cape Town,Cape Town,South Africa,Africa,C40,Public,2017,Wastewater treatment,Electricity,132237504,kWh
+54102,City of Albany,Albany,USA,North America,,Public,2017,Wastewater treatment,Electricity,547598,kWh
+55799,"City of Arlington, VA","Arlington, VA",USA,North America,,Public,2017,Wastewater treatment,Electricity,31143,MWh
+54104,City of Boulder,Boulder,USA,North America,,Public,2017,Wastewater treatment,Electricity,7416086,kWh
+35475,City of Calgary,Calgary,Canada,North America,,Public,2017,Wastewater treatment,Electricity,56394982.06,kWh
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Wastewater treatment,Electricity,56077564,kWh
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Wastewater treatment,Heat,642530,Therms
+58590,"City of Easton, PA","Easton, PA",USA,North America,,Public,2017,Wastewater treatment,Electricity,1193039,kWh
+57616,"City of Lake Forest, IL","Lake Forest, IL",USA,North America,,Public,2017,Wastewater treatment,Electricity,7920,Therms
+10495,City of Las Vegas,Las Vegas,USA,North America,,Public,2017,Wastewater treatment,Electricity,47459918,kWh
+10495,City of Las Vegas,Las Vegas,USA,North America,,Public,2017,Wastewater treatment,Heat,198171,Therms
+43905,City of San Antonio,San Antonio,USA,North America,,Public,2017,Wastewater treatment,Electricity,84993209,kWh
+54085,City of Savannah,Savannah,USA,North America,,Public,2017,Wastewater treatment,Electricity,55721549,kWh
+50578,City of Windsor,Windsor,Canada,North America,,Public,2017,Wastewater treatment,Electricity,73963,GJ
+3417,New York City,New York City,USA,North America,C40,Public,2017,Wastewater treatment,Electricity,692309021,kWh
+3417,New York City,New York City,USA,North America,C40,Public,2017,Wastewater treatment,Steam,37549979,GJ
+31112,Kaohsiung City Government,Kaohsiung,Taiwan,East Asia,,Public,2017,Wastewater treatment,Electricity,56334,MWh
+57347,Pingtung County Government,Pingtung ,Taiwan,East Asia,,Public,2017,Wastewater treatment,Electricity,3517622,kWh
+50381,Municipio de Torreón,Torreón,Mexico,Latin America,,Public,2017,Wastewater treatment,Electricity,650000,kWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Wastewater treatment,Electricity,16154000,kWh
+49335,Metropolitan Government of Nashville and Davidson County,Nashville and Davidson ,USA,North America,,Public,2017,Wastewater treatment,Electricity,211305784,kWh
+31108,City of Houston,Houston,USA,North America,C40,Public,2017,Wastewater treatment,Electricity,199814216,kWh
+10894,City of Los Angeles,Los Angeles,USA,North America,C40,Public,2017,Wastewater treatment,Electricity,,
+59537,"City of Denton, TX","Denton, TX",USA,North America,,Public,2017,Wastewater treatment,Electricity,11324004.79,kWh
+59631,"City of San Leandro, CA","San Leandro, CA",USA,North America,,Public,2017,Wastewater treatment,Electricity,2865428,kWh
+58569,City of Podgorica,Podgorica,Montenegro,Europe,,Public,2017,Water supply,Electricity,13106,kWh
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo ,Israel,South and West Asia,,Public,2017,Water supply,,49600,MWh
+35858,City of Cape Town,Cape Town,South Africa,Africa,C40,Public,2017,Water supply,Electricity,63466200,kWh
+54102,City of Albany,Albany,USA,North America,,Public,2017,Water supply,Electricity,1805900,kWh
+54104,City of Boulder,Boulder,USA,North America,,Public,2017,Water supply,Electricity,4899854,kWh
+35475,City of Calgary,Calgary,Canada,North America,,Public,2017,Water supply,Electricity,81930779.72,kWh
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Water supply,Electricity,47164740,kWh
+43910,City of Columbus,Columbus,USA,North America,,Public,2017,Water supply,Heat,352194,Therms
+54108,City of Durham,Durham,USA,North America,,Public,2017,Water supply,Electricity,42570639,kWh
+58590,"City of Easton, PA","Easton, PA",USA,North America,,Public,2017,Water supply,Electricity,0,kWh
+50555,City of Hamilton,Hamilton,Canada,North America,,Public,2017,Water supply,Electricity,103157292,kWh
+57616,"City of Lake Forest, IL","Lake Forest, IL",USA,North America,,Public,2017,Water supply,Electricity,190200,Therms
+14344,"City of Park City, UT","Park City, UT",USA,North America,,Public,2017,Water supply,Electricity,8023819,kWh
+35878,City of Sacramento,Sacramento,USA,North America,,Public,2017,Water supply,Electricity,47391,MWh
+43905,City of San Antonio,San Antonio,USA,North America,,Public,2017,Water supply,Electricity,185891919,kWh
+54110,City of Santa Monica,Santa Monica,USA,North America,,Public,2017,Water supply,Electricity,18219919,kWh
+35393,City of St Louis,St Louis,USA,North America,,Public,2017,Water supply,Electricity,68743042,kWh
+50578,City of Windsor,Windsor,Canada,North America,,Public,2017,Water supply,Electricity,53400,GJ
+31177,Salt Lake City,Salt Lake City,USA,North America,,Public,2017,Water supply,Electricity,20697437,kWh
+13067,City of New Orleans,New Orleans,USA,North America,C40,Public,2017,Water supply,Electricity,97601306,kWh
+3417,New York City,New York City,USA,North America,C40,Public,2017,Water supply,Electricity,77505486,kWh
+50381,Municipio de Torreón,Torreón,Mexico,Latin America,,Public,2017,Water supply,Electricity,89216806,kWh
+36254,Comune di Venezia,Venezia,Italy,Europe,C40,Public,2017,Water supply,Electricity,2908,MWh
+54119,City of Palo Alto,Palo Alto,USA,North America,,Public,2017,Water supply,Electricity,560872,kWh
+35877,City of Pittsburgh,Pittsburgh,USA,North America,,Public,2017,Water supply,Electricity,52928290,kWh
+31108,City of Houston,Houston,USA,North America,C40,Public,2017,Water supply,Electricity,159414365,kWh
+64014,City of Cupertino,Cupertino,USA,North America,,Public,2017,Water supply,Electricity,32378,kWh
+59537,"City of Denton, TX","Denton, TX",USA,North America,,Public,2017,Water supply,Electricity,15989662,kWh
+50792,Ville de Monaco,Monaco,Monaco,Europe,,Public,2017,,Cooling,258400,kWh
+44132,Bornova Municipality,Bornova ,Turkey,Europe,,Public,2017,,Electricity,2606,MWh
+36262,Comune di Genova,Genova,Italy,Europe,,Public,2017,,Electricity,155000,MWh
+36495,Comune di Piacenza,Piacenza,Italy,Europe,,Public,2017,,Electricity,13194,MWh
+36518,Comune di Udine,Udine,Italy,Europe,,Public,2017,,Electricity,5976,Metric tonnes
+31313,Dublin City Council,Dublin,Ireland,Europe,,Public,2017,,Electricity,71441,MWh
+31055,Glasgow City Council,Glasgow,United Kingdom,Europe,,Public,2017,,Electricity,160000000,kWh
+50792,Ville de Monaco,Monaco,Monaco,Europe,,Public,2017,,Electricity,24796264,kWh
+43975,Municipalidad de Magdalena del Mar,Magdalena del Mar,Peru,Latin America,,Public,2017,,Electricity,733.34,MWh
+36495,Comune di Piacenza,Piacenza,Italy,Europe,,Public,2017,,Heat,50453,MWh
+31313,Dublin City Council,Dublin,Ireland,Europe,,Public,2017,,Heat,120,MWh
+50792,Ville de Monaco,Monaco,Monaco,Europe,,Public,2017,,Heat,215990,kWh
+31313,Dublin City Council,Dublin,Ireland,Europe,,Public,2017,,Other: Natural Gas,64840,MWh
