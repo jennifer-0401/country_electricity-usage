@@ -42,7 +42,6 @@ import plotly.express as px
 #st.subheader("🔌 能源消耗占比（依類型）")
 #type_summary = df.groupby('Type')['Amount_kWh'].sum().reset_index()
 
-
 #st.plotly_chart(fig_pie, use_container_width=True, key="fig_pie_1")
 
 # C40 vs 非 C40 能源使用比較
@@ -60,7 +59,7 @@ fig_c40 = px.bar(
 
 #st.plotly_chart(fig_c40, use_container_width=True, key="fig_c40_1")
 
-page = st.sidebar.radio("選擇你要查看的分析模組", ["總覽", "能源類型分析", "C40 比較"])
+page = st.sidebar.radio("選擇你要查看的分析模組", ["總覽", "城市能耗排行", "能源類型分析", "C40 比較"])
 if page == "總覽":
     st.subheader("🌍 各國地方政府能源消耗（kWh）")
     # 使用 selectbox 選擇分析模式
@@ -75,6 +74,47 @@ if page == "總覽":
 
     )
     st.plotly_chart(fig_bar_filtered, use_container_width=True, key="fig_bar_2")
+
+    st.subheader("🏙️ 城市與國家交叉分析（前20名）")
+
+    if 'City short name' in df.columns and 'Country' in df.columns:
+        city_country_summary = (
+            df.groupby(['Country', 'City short name'])['Amount_kWh']
+            .sum()
+            .reset_index()
+            .sort_values(by='Amount_kWh', ascending=False)
+            .head(20)
+        )
+
+        fig_city_country = px.bar(
+            city_country_summary,
+            x='City short name',
+            y='Amount_kWh',
+            color='Country',
+            title='Top 20 城市與國家能源使用比較（kWh）',
+            labels={'Amount_kWh': 'Energy Consumption (kWh)', 'City short name': '城市'}
+        )
+        st.plotly_chart(fig_city_country, use_container_width=True, key="fig_city_country")
+    else:
+        st.info("資料中缺少 City short name 或 Country 欄位，無法產出交叉分析圖表。")
+
+elif page == "城市能耗排行":
+    st.subheader("🏙️ 城市能源使用排行前10名（kWh）")
+
+    if 'City short name' in df.columns:
+        city_summary = df.groupby('City short name')['Amount_kWh'].sum().reset_index()
+        city_summary = city_summary.sort_values(by='Amount_kWh', ascending=False).head(10)
+        fig_city = px.bar(
+            city_summary,
+            x='City short name', y='Amount_kWh',
+            title='城市能源使用量（kWh）',
+            labels={'Amount_kWh': 'Energy Consumption (kWh)', 'City short Name': '城市'}
+        )
+        st.plotly_chart(fig_city, use_container_width=True, key="fig_city_energy")
+    else:
+        st.info("📭 資料中尚未提供 City short Name 欄位，無法顯示城市能源排行。")
+
+    
 elif page == "能源類型分析":
     st.subheader("🔌 能源消耗占比（依類型）")
     # 新增能源類型篩選器
@@ -98,3 +138,6 @@ elif page == "能源類型分析":
 elif page == "C40 比較":
     st.subheader("🏙️ C40 成員國 vs 非成員國能源使用比較")
     st.plotly_chart(fig_c40, use_container_width=True, key="fig_c40_2")
+
+
+print(df.columns)
